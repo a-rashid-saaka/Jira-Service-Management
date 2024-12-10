@@ -36,3 +36,51 @@
 <br>
 
 <p>The diagram outlines the stages of a service ticket. It starts with Ticket Creation, where a user reports an issue. Next is classification, which sorts the ticket by type and priority. Assignment and Escalation assign it to the right team and escalate if needed. Resolution Steps involve fixing the issue while keeping the user informed. Finally, Resolution and Closure mark the problem as solved and close the ticket, ensuring an organized approach to handling user issues..</p>
+
+
+<h3>&#9312; Ticket Creation</h3>
+
+
+<p>Ticket creation in Jira is the process of logging and defining an issue that needs to be resolved. This can involve tasks, incidents, service requests, or bugs, depending on the type of project. In Jira Service Management, ticket creation is often initiated by end users, agents, or the system.</p>
+
+Here’s a step-by-step guide to creating a ticket in Jira:
+
+<h4>I. Access the Jira Project</h4>
+
+- Log in to Jira using your credentials.
+- Navigate to the specific project where you want to create the ticket (e.g., IT Support).
+
+<h4>II. Click on "Create"</h4>
+
+- Click the Create button located on the Jira dashboard (typically at the top right of the page).
+  
+<h4>III. Fill in Ticket Details</h4>
+
+- Project: Select the project the ticket belongs to.
+  
+- Issue Type: Choose the type of issue, such as:
+    - Bug: For software defects.
+    - Service Request: For IT requests
+    - Incident: For IT or service disruptions.
+
+- Summary: Provide a concise title for the ticket (e.g., "Password Reset Needed").
+  
+- Description: Add detailed information about the issue or request, including steps to reproduce (if applicable), expectations, and any relevant attachments or screenshots.
+  
+- Priority: Set the priority level (e.g., High, Medium, Low).
+  
+- Assignee: Specify the person responsible for the ticket or leave it unassigned for triage.
+  
+<h4>IV. Customize Fields (if needed)</h4>
+   
+- Add custom fields such as:
+   - Components: Specify parts of the system affected (e.g., "Database").
+   - Labels: Use tags for categorization (e.g., "Critical").
+   - Due Date: Set a deadline for the task.
+     
+<h4>V. Attach Files (Optional)</h4>
+Use the Attach Files option to upload relevant screenshots, logs, or documents.
+
+<h4>VI. Submit the Ticket</h4>
+Click the Create button to log the ticket into the project.
+

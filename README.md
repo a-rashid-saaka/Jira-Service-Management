@@ -16,6 +16,7 @@
 - Simulate IT service scenarios to show how we handle tickets like software bugs, hardware requests, and password resets in Jira Service Management.
   
 <h4>Highlighting Best Practices and Features in Jira Service Management: </h4>
+
 - Highlight the best practices and key features of Jira Service Management, focusing on SLA management and how it can enhance IT support operations.
 
 
@@ -25,3 +26,12 @@
 
 - Jira Service Management 
 - Windows 10
+
+  <h2>Ticket Lifecycle</h2>
+  
+![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/b762f7d8-fcea-49b1-8074-a1fc0a57b8b1)
+
+
+<br>
+
+<p>The diagram outlines the stages of a service ticket. It starts with Ticket Creation, where a user reports an issue. Next is classification, which sorts the ticket by type and priority. Assignment and Escalation assign it to the right team and escalate if needed. Resolution Steps involve fixing the issue while keeping the user informed. Finally, Resolution and Closure mark the problem as solved and close the ticket, ensuring an organized approach to handling user issues..</p>

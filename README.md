@@ -59,7 +59,7 @@ Here’s a step-by-step guide to creating a ticket in Jira:
 - Project: Select the project the ticket belongs to.
   
 - Issue Type: Choose the type of issue, such as:
-    - Bug: For software defects.
+    - Task: For general work items.
     - Service Request: For IT requests
     - Incident: For IT or service disruptions.
 

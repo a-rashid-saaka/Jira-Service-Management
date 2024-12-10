@@ -52,24 +52,11 @@ Here’s a step-by-step guide to creating a ticket in Jira:
 
 <h4>II. Click on "Create"</h4>
 
-- Click the Create button located on the Jira dashboard (typically at the top right of the page).
+ Click the Create button located on the Jira dashboard (typically at the top right of the page).
   
 <h4>III. Fill in Ticket Details</h4>
 
-- Project: Select the project the ticket belongs to.
-  
-- Issue Type: Choose the type of issue, such as:
-    - Task: For general work items.
-    - Service Request: For IT requests
-    - Incident: For IT or service disruptions.
-      
-- Request Type: Choose the request type (e.g., Get IT Help, or Report a System Problem)
-
-- Summary: Provide a concise title for the ticket (e.g., "Password Reset Needed").
-  
-- Description: Add detailed information about the issue or request, and include steps to reproduce (if applicable).
-  
-- Priority: Set the priority level (e.g., High, Medium, Low) depending on issue type.
+Fill in the form with details such as project, issue type, request type, summary, description, and any other required details
   
 
 <h4>IV. Customize Fields (if needed)</h4>
@@ -84,4 +71,13 @@ Use the Attach Files option to upload relevant screenshots, logs, or documents.
 
 <h4>VI. Submit the Ticket</h4>
 Click the Create button to log the ticket into the project.
+
+<br>
+<br>
+Select the "Queue" to view the tickets available
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/c7242633-b910-4fbf-96f4-348e77f8330c)
 

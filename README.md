@@ -15,9 +15,10 @@
 
 - Simulate IT service scenarios to show how we handle tickets like software bugs, hardware requests, and password resets in Jira Service Management.
   
-<h4>Highlighting Best Practices in Jira Service Management: </h4>
+<h4>Highlighting Best Practices and Features in Jira Service Management: </h4>
+- Highlight the best practices and key features of Jira Service Management, focusing on SLA management and how it can enhance IT support operations.
 
-- Emphasize Jira Service Management's key features, such as automation, SLA management, knowledge base integration, reporting, and how it can optimize IT support operations.
+
 
 
 <h2>Technologies and Environments</h2>

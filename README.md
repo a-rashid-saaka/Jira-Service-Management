@@ -62,21 +62,22 @@ Here’s a step-by-step guide to creating a ticket in Jira:
     - Task: For general work items.
     - Service Request: For IT requests
     - Incident: For IT or service disruptions.
+      
+- Request Type: Choose the request type (e.g., Get IT Help)
 
 - Summary: Provide a concise title for the ticket (e.g., "Password Reset Needed").
   
-- Description: Add detailed information about the issue or request, including steps to reproduce (if applicable), expectations, and any relevant attachments or screenshots.
+- Description: Add detailed information about the issue or request, and include steps to reproduce (if applicable).
   
 - Priority: Set the priority level (e.g., High, Medium, Low).
   
-- Assignee: Specify the person responsible for the ticket or leave it unassigned for triage.
-  
+
 <h4>IV. Customize Fields (if needed)</h4>
    
 - Add custom fields such as:
    - Components: Specify parts of the system affected (e.g., "Database").
    - Labels: Use tags for categorization (e.g., "Critical").
-   - Due Date: Set a deadline for the task.
+
      
 <h4>V. Attach Files (Optional)</h4>
 Use the Attach Files option to upload relevant screenshots, logs, or documents.

@@ -29,7 +29,8 @@
 
   <h2>Ticket Lifecycle</h2>
   
-![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/b762f7d8-fcea-49b1-8074-a1fc0a57b8b1)
+![Untitled Diagram drawio (3)](https://github.com/user-attachments/assets/99514443-0931-4698-94ff-4b2a5ce8f9b3)
+
 
 
 <br>

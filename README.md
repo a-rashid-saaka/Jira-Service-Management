@@ -81,3 +81,37 @@ Select the "Queue" to view the tickets available
 
 ![image](https://github.com/user-attachments/assets/c7242633-b910-4fbf-96f4-348e77f8330c)
 
+<br>
+<h3>&#9313; Classification </h3>
+
+<p>Ticket classification in Jira is the process of categorizing tickets based on specific criteria, such as issue type, priority, status, or components. This helps organize work, streamline workflows, and ensure efficient resolution by assigning tickets to the right teams or individuals. 
+  
+Here's a detailed look at the key aspects of ticket classification:</p>
+
+<h4>Key Categories for Ticket Classification</h4>
+
+- Issue Types:
+   - Incident: For unplanned disruptions or system failures.
+   - Task: For general work items or operational tasks.
+   - Service Request: For user requests, such as account access or installations.
+
+- Priority:
+  
+  - Indicates the urgency of the ticket.
+  - Common levels: Critical, High, Medium, Low.
+
+- Status:
+  
+  - Tracks the lifecycle of a ticket.
+  - Example statuses: Open, In Progress, Resolved, Closed.
+
+- Components:
+  
+  - Refers to specific subsystems or areas affected by the ticket.
+  - Example: Backend, Database, UI.
+
+- Labels:
+  
+  - Custom tags for additional categorization.
+  - Example: "Critical Issue," "Customer Request."
+

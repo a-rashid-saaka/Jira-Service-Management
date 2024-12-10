@@ -88,7 +88,8 @@ Select the "Queue" to view the tickets available
   
 Here's a detailed look at the key aspects of ticket classification:</p>
 
-<h4>Key Categories for Ticket Classification</h4>
+
+<h4>I. Key Categories for Ticket Classification</h4>
 
 - Issue Types:
    - Incident: For unplanned disruptions or system failures.
@@ -114,4 +115,23 @@ Here's a detailed look at the key aspects of ticket classification:</p>
   
   - Custom tags for additional categorization.
   - Example: "Critical Issue," "Customer Request."
+    
+<br>
 
+<h4>II. How to Set Up Ticket Classification in Jira</h4>
+
+- Customize Issue Types:
+  - Navigate to Project Settings > Issue Types.
+  - Add or modify issue types to fit the team's needs.
+    
+- Define Priorities:
+  - Go to Jira Settings > Issues > Priorities.
+  - Configure priority levels and associate them with workflows.
+    
+- Use Components:
+  - Navigate to Project Settings > Components.
+  - Define components for the project (e.g., "API," "Frontend").
+    
+- Set Labels:
+
+Encourage the use of labels during ticket creation for easy filtering.

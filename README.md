@@ -63,13 +63,13 @@ Here’s a step-by-step guide to creating a ticket in Jira:
     - Service Request: For IT requests
     - Incident: For IT or service disruptions.
       
-- Request Type: Choose the request type (e.g., Get IT Help)
+- Request Type: Choose the request type (e.g., Get IT Help, or Report a System Problem)
 
 - Summary: Provide a concise title for the ticket (e.g., "Password Reset Needed").
   
 - Description: Add detailed information about the issue or request, and include steps to reproduce (if applicable).
   
-- Priority: Set the priority level (e.g., High, Medium, Low).
+- Priority: Set the priority level (e.g., High, Medium, Low) depending on issue type.
   
 
 <h4>IV. Customize Fields (if needed)</h4>

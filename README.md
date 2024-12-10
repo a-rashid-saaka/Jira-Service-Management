@@ -123,11 +123,13 @@ Here's a detailed look at the key aspects of ticket classification:</p>
 - Customize Issue Types:
   - Navigate to Project Settings > Issue Types.
   - Add or modify issue types to fit the team's needs.
-    
+
+    ![image](https://github.com/user-attachments/assets/564a6100-6cb9-43cd-9e5b-665e834362dd)
 - Define Priorities:
   - Go to Jira Settings > Issues > Priorities.
   - Configure priority levels and associate them with workflows.
-    
+
+    ![image](https://github.com/user-attachments/assets/226c67b4-8f02-417a-ad8b-f88570aec520)
 - Use Components:
   - Navigate to Project Settings > Components.
   - Define components for the project (e.g., "API," "Frontend").

@@ -52,7 +52,7 @@ Here’s a step-by-step guide to creating a ticket in Jira:
 
 <h4>II. Click on "Create"</h4>
 
- Click the Create button located on the Jira dashboard (typically at the top right of the page).
+ Click the Create button on the Jira dashboard (typically at the top right of the page).
   
 <h4>III. Fill in Ticket Details</h4>
 
@@ -62,7 +62,7 @@ Fill in the form with details such as project, issue type, request type, summary
 <h4>IV. Customize Fields (if needed)</h4>
    
 - Add custom fields such as:
-   - Components: Specify parts of the system affected (e.g., "Database").
+   - Components: Specify system parts affected (e.g., "Database").
    - Labels: Use tags for categorization (e.g., "Critical").
 
      
@@ -136,4 +136,14 @@ Here's a detailed look at the key aspects of ticket classification:</p>
     
 - Set Labels:
 
-Encourage the use of labels during ticket creation for easy filtering.
+You can encourage the use of labels during ticket creation for easy filtering.
+
+<br>
+<br>
+
+
+<h3>&#9314; Ticket Assignment and Escalation </h3>
+Ticket Assignment and Escalation in Jira are core processes used to ensure that issues are addressed by the appropriate team or individual within a defined timeframe. These processes are critical for maintaining workflow efficiency, meeting service-level agreements (SLAs), and resolving issues effectively.
+
+<h3>Assignment Process:</h3>
+

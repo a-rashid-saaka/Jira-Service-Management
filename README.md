@@ -145,5 +145,30 @@ You can encourage the use of labels during ticket creation for easy filtering.
 <h3>&#9314; Ticket Assignment and Escalation </h3>
 Ticket Assignment and Escalation in Jira are core processes used to ensure that issues are addressed by the appropriate team or individual within a defined timeframe. These processes are critical for maintaining workflow efficiency, meeting service-level agreements (SLAs), and resolving issues effectively.
 
-<h3>Assignment Process:</h3>
+<h4>Methods of Assignment:</h4>
 
+<h4>I. Manual Assignment:</h4>
+
+- Agents or team leads assign tickets based on expertise or workload.
+- Process:
+  - Open the ticket.
+  - Select the Assignee field.
+  - Choose a team member from the dropdown.
+    
+<h4>II. Automatic Assignment:</h4>
+
+Round-Robin: Distribute tickets evenly across team members.
+Based on Criteria:
+Use Automation Rules in Jira to assign tickets.
+Example: "If component = 'Frontend', assign to John Doe."
+Steps for Manual Assignment:
+Open the ticket from the project view.
+Click the Assignee field on the ticket screen.
+Select a team member from the list.
+Save the changes.
+Steps for Automatic Assignment:
+Go to Project Settings > Automation.
+Create a rule:
+Trigger: Issue Created.
+Condition: If Component = "Networking".
+Action: Assign to the Networking Team.

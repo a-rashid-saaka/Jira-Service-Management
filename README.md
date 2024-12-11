@@ -167,3 +167,27 @@ Ticket Assignment and Escalation in Jira are core processes used to ensure that 
        
     ![image](https://github.com/user-attachments/assets/ef3651cd-f2f3-4426-b205-b05a053486c8)
    <p><strong>The example above automates assigning Active Directory issues to system-administrators</strong></p>
+<br>
+<h4>When to Escalate:</h4>
+<strong>I. SLA Breach:</strong>
+When a ticket is close to violating SLA timelines.
+
+<strong>II.Complexity:</strong>
+If the issue is beyond the expertise of the current assignee.
+
+<strong>III. High Priority:</strong> Tickets requiring immediate attention due to business impact.
+
+<strong>IV. Approval:</strong> Some tickets may require managerial or senior-level approval.
+
+<h4>How Escalation Works:</h4>
+
+<strong>Manually:</strong>
+
+- Agents manually reassign the ticket to another team or tier.
+- Example: Reassigning a "High Priority Bug" from Tier 1 to Tier 2 support.
+
+<strong>Automatically (Using Automation Rules):</strong>
+
+Trigger: SLA about to breach or a specific condition is met.
+Action: Reassign the ticket to a senior team or notify stakeholders.
+Example: Create a rule: "If priority = High and SLA time remaining < 1 hour, escalate to Tier 2."

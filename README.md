@@ -172,6 +172,12 @@ Ticket Assignment and Escalation in Jira are core processes used to ensure that 
 <strong>I. SLA Breach:</strong>
 When a ticket is close to violating SLA timelines.
 
+Service Level Agreements (SLAs) in Jira define the timeframes within which certain tasks or issues must be completed, ensuring adherence to agreed-upon service levels.
+
+<strong> Navigate to Project settings > SLAs, to configure these settings.</strong>
+
+![image](https://github.com/user-attachments/assets/3de7a0ac-0eb6-47aa-858c-7c34df86ea81)
+
 <strong>II.Complexity:</strong>
 If the issue is beyond the expertise of the current assignee.
 

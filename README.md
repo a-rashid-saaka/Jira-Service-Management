@@ -154,21 +154,16 @@ Ticket Assignment and Escalation in Jira are core processes used to ensure that 
   - Open the ticket.
   - Select the Assignee field.
   - Choose a team member from the dropdown.
+
+    ![image](https://github.com/user-attachments/assets/3044f814-0327-4bbe-982e-68a1a7bdd24d)
     
 <h4>II. Automatic Assignment:</h4>
 
-Round-Robin: Distribute tickets evenly across team members.
-Based on Criteria:
-Use Automation Rules in Jira to assign tickets.
-Example: "If component = 'Frontend', assign to John Doe."
-Steps for Manual Assignment:
-Open the ticket from the project view.
-Click the Assignee field on the ticket screen.
-Select a team member from the list.
-Save the changes.
-Steps for Automatic Assignment:
-Go to Project Settings > Automation.
-Create a rule:
-Trigger: Issue Created.
-Condition: If Component = "Networking".
-Action: Assign to the Networking Team.
+- Round-Robin: Distribute tickets evenly across team members.
+- Based on Criteria:
+  - Use Automation Rules in Jira to assign tickets.
+     - Go to Project Settings > Automation.
+     - Create a rule:
+       
+    ![image](https://github.com/user-attachments/assets/ef3651cd-f2f3-4426-b205-b05a053486c8)
+   <p><strong>The example above automates assigning Active Directory issues to system-administrators</strong></p>

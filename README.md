@@ -251,3 +251,12 @@ Open the ticket and review details such as summary, description, attachments(if 
 <strong> Ticket Creation:</strong> A user submits a ticket reporting their inability to remotely connect to the organization's VPN
 
 ![image](https://github.com/user-attachments/assets/0f5c11ac-66c1-4ed1-a823-c35110b78a0b)
+<h4> Assignment and Escalation:</h4>
+
+- <strong>Assigned To:</strong> Level 1 Support Team.
+- <strong>Escalation Path:</strong> If unresolved within a specified timeframe, escalate to a Level 2  Support Team.
+
+<strong> Investigation of Issue</strong>
+- Analyze the error and identify any potential causes such as server issues, client misconfiguration, or network disruption
+- Contact the reporter for additional details if necessary
+- 

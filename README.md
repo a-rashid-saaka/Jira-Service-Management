@@ -139,7 +139,6 @@ Here's a detailed look at the key aspects of ticket classification:</p>
 You can encourage the use of labels during ticket creation for easy filtering.
 
 <br>
-<br>
 
 
 <h3>&#9314; Ticket Assignment and Escalation </h3>
@@ -198,7 +197,7 @@ If the issue is beyond the expertise of the current assignee.
 - Action: Reassign the ticket to a senior team or notify stakeholders.
 - Example: Create a rule: "If priority = High and SLA time remaining < 1 hour, escalate to Tier 2."
 
-
+<br>
   
 <h3>&#9315; Ticket Resolution and Closure</h3>
 
@@ -209,3 +208,11 @@ If the issue is beyond the expertise of the current assignee.
 Open the ticket and review details such as summary, description, attachments(if applicable), priority, and SLAs
 
 ![image](https://github.com/user-attachments/assets/be4922f2-413d-4ed1-9c12-43df3cb78def)
+
+<strong>II. Work on the ticket:</strong>
+- Ensure the ticket is assigned to the right team member
+- Perform tasks related to the ticket such as: resetting the user password
+- Communicate with other team members or the reporter of the ticket by using the Comment section, sharing progress updates or requesting additional information from the reporter
+![image](https://github.com/user-attachments/assets/b20b5786-0d8c-4930-9395-9cd08c50de98)
+
+

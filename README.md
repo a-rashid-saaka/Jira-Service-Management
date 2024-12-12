@@ -184,6 +184,8 @@ If the issue is beyond the expertise of the current assignee.
 
 <strong>IV. Approval:</strong> Some tickets may require managerial or senior-level approval.
 
+<br>
+
 <h4>How Escalation Works:</h4>
 
 <strong>Manually:</strong>
@@ -209,6 +211,8 @@ Open the ticket and review details such as summary, description, attachments(if 
 
 ![image](https://github.com/user-attachments/assets/be4922f2-413d-4ed1-9c12-43df3cb78def)
 
+
+
 <strong>II. Work on the ticket:</strong>
 - Ensure the ticket is assigned to the right team member
 - Perform tasks related to the ticket such as: resetting the user password
@@ -216,3 +220,7 @@ Open the ticket and review details such as summary, description, attachments(if 
 ![image](https://github.com/user-attachments/assets/b20b5786-0d8c-4930-9395-9cd08c50de98)
 
 
+
+<strong>III. Update the ticket status:</strong> Transition the ticket to "Work In Progress" or any other similar status
+
+![image](https://github.com/user-attachments/assets/8d801d13-c558-4b02-8f35-d03f3f074322)

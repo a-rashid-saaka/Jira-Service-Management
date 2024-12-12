@@ -259,4 +259,13 @@ Open the ticket and review details such as summary, description, attachments(if 
 <strong> Investigation of Issue</strong>
 - Analyze the error and identify any potential causes such as server issues, client misconfiguration, or network disruption
 - Contact the reporter for additional details if necessary
-- 
+
+<h4>Verify the Resolution</h4>
+After performing initial troubleshooting and resolving the issue,
+<p>I. Confirm with the User:</p>
+
+- Add a comment asking the user to confirm whether the issue is resolved.
+- Example: “Please confirm if you’re now able to connect to the VPN.”
+![image](https://github.com/user-attachments/assets/38960160-51f1-482f-941f-3482f00c441d)
+<p>II. Test Internally:</p>
+If possible, test the VPN connection from another device to ensure the fix works universally.

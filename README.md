@@ -269,3 +269,10 @@ After performing initial troubleshooting and resolving the issue,
 ![image](https://github.com/user-attachments/assets/38960160-51f1-482f-941f-3482f00c441d)
 <p>II. Test Internally:</p>
 If possible, test the VPN connection from another device to ensure the fix works universally.
+
+<h4>Close the Ticket</h4>
+After the user confirms the resolution:
+Change the ticket status to "Closed".
+Update the Resolution Field:
+Select a resolution type (e.g., "Fixed").
+Thank the user and provide additional instructions, if necessary.

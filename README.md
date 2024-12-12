@@ -143,7 +143,7 @@ You can encourage the use of labels during ticket creation for easy filtering.
 
 
 <h3>&#9314; Ticket Assignment and Escalation </h3>
-Ticket Assignment and Escalation in Jira are core processes used to ensure that issues are addressed by the appropriate team or individual within a defined timeframe. These processes are critical for maintaining workflow efficiency, meeting service-level agreements (SLAs), and resolving issues effectively.
+Ticket Assignment and Escalation in Jira are core processes to ensure that the appropriate team or individual addresses issues within a defined timeframe. These processes are critical for maintaining workflow efficiency, meeting service-level agreements (SLAs), and resolving issues effectively.
 
 <h4>Methods of Assignment:</h4>
 
@@ -172,7 +172,7 @@ Ticket Assignment and Escalation in Jira are core processes used to ensure that 
 <strong>I. SLA Breach:</strong>
 When a ticket is close to violating SLA timelines.
 
-Service Level Agreements (SLAs) in Jira define the timeframes within which certain tasks or issues must be completed, ensuring adherence to agreed-upon service levels.
+Service Level Agreements (SLAs) in Jira define the timeframes for certain tasks or issues, ensuring adherence to agreed-upon service levels.
 
 <strong> Navigate to Project settings > SLAs, to configure these settings.</strong>
 
@@ -194,6 +194,18 @@ If the issue is beyond the expertise of the current assignee.
 
 <strong>Automatically (Using Automation Rules):</strong>
 
-Trigger: SLA about to breach or a specific condition is met.
-Action: Reassign the ticket to a senior team or notify stakeholders.
-Example: Create a rule: "If priority = High and SLA time remaining < 1 hour, escalate to Tier 2."
+- Trigger: SLA about to breach or a specific condition is met.
+- Action: Reassign the ticket to a senior team or notify stakeholders.
+- Example: Create a rule: "If priority = High and SLA time remaining < 1 hour, escalate to Tier 2."
+
+
+  
+<h3>&#9315; Ticket Resolution and Closure</h3>
+
+<p>Ticket resolution in Jira refers to the process of marking a ticket as completed by addressing the reported issue, implementing a solution, or fulfilling the request. It’s the final step in the ticket lifecycle, where the issue is resolved and verified.</p>
+
+<h4>How to resolve a ticket</h4>
+<strong>I. Review ticket details:</strong>
+Open the ticket and review details such as summary, description, attachments(if applicable), priority, and SLAs
+
+![image](https://github.com/user-attachments/assets/be4922f2-413d-4ed1-9c12-43df3cb78def)

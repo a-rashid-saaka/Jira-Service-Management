@@ -235,3 +235,19 @@ Open the ticket and review details such as summary, description, attachments(if 
 <strong>VI. Verify and Close:</strong> Wait for the reporter to confirm that the issue has been resolved and close the ticket. Change the status of the ticket to "Closed" after verification from the reporter.
 
 ![image](https://github.com/user-attachments/assets/326d077f-9e88-4214-809c-cdd71b327a1d)
+
+<br>
+<br>
+<br>
+
+
+<h3>&#9316; Sample Ticket Resolution: Cannot Connect to VPN</h3>
+
+<h4>Description:</h4>
+
+<p>It is early Monday morning, and a user is unable to connect to the company VPN. The error message reads: "Connection Timeout - Unable to Reach VPN Server". This issue is preventing the user from accessing internal resources and working remotely. The problem was reported after the last update of the VPN client software.</p>
+
+
+<strong> Ticket Creation:</strong> A user submits a ticket reporting their inability to remotely connect to the organization's VPN
+
+![image](https://github.com/user-attachments/assets/0f5c11ac-66c1-4ed1-a823-c35110b78a0b)

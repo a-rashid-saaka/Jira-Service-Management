@@ -216,7 +216,7 @@ Open the ticket and review details such as summary, description, attachments(if 
 <strong>II. Work on the ticket:</strong>
 - Ensure the ticket is assigned to the right team member
 - Perform tasks related to the ticket such as: resetting the user password
-- Communicate with other team members or the reporter of the ticket by using the Comment section, sharing progress updates or requesting additional information from the reporter
+- Communicate with other team members or the reporter of the ticket by using the Comment section, sharing progress updates, or requesting additional information from the reporter
 ![image](https://github.com/user-attachments/assets/b20b5786-0d8c-4930-9395-9cd08c50de98)
 
 
@@ -224,3 +224,14 @@ Open the ticket and review details such as summary, description, attachments(if 
 <strong>III. Update the ticket status:</strong> Transition the ticket to "Work In Progress" or any other similar status
 
 ![image](https://github.com/user-attachments/assets/8d801d13-c558-4b02-8f35-d03f3f074322)
+
+
+<strong>IV. Document the resolution steps:</strong> In the Comment section, describe the steps taken to resolve the issue and attach supporting evidence like screenshots if necessary.
+
+<strong>V. Resolve the ticket:</strong> Change the status of the ticket to "Completed" and notify the customer that the issue has been resolved
+![image](https://github.com/user-attachments/assets/19c28ffb-2543-443b-9a92-d7d19036c8d6)
+
+
+<strong>VI. Verify and Close:</strong> Wait for the reporter to confirm that the issue has been resolved and close the ticket. Change the status of the ticket to "Closed" after verification from the reporter.
+
+![image](https://github.com/user-attachments/assets/326d077f-9e88-4214-809c-cdd71b327a1d)

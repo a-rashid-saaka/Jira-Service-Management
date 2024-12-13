@@ -104,7 +104,7 @@ Here's a detailed look at the key aspects of ticket classification:</p>
 - Status:
   
   - Tracks the lifecycle of a ticket.
-  - Example statuses: Open, In Progress, Resolved, Closed.
+  - Example statuses: Open, In Progress, Completed, Closed.
 
 - Components:
   

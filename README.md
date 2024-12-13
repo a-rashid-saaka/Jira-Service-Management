@@ -129,7 +129,7 @@ Here's a detailed look at the key aspects of ticket classification:</p>
 ![image](https://github.com/user-attachments/assets/bfc37bee-3e62-4ce5-b24f-35b652d20af6)
 - Use Components:
   - Navigate to Project Settings > Components.
-  - Define components for the project (e.g., "API," "Frontend").
+  - Define components for the project (e.g., "Database," "Frontend").
     
 - Set Labels:
 
@@ -188,7 +188,7 @@ If the issue is beyond the expertise of the current assignee.
 <strong>Manually:</strong>
 
 - Agents manually reassign the ticket to another team or tier.
-- Example: Reassigning a "High Priority Bug" from Tier 1 to Tier 2 support.
+- Example: Reassigning a "High Priority Incident" from Tier 1 to Tier 2 support.
 
 <strong>Automatically (Using Automation Rules):</strong>
 
@@ -274,3 +274,12 @@ After the user confirms the resolution:
 - Thank the user and provide additional instructions, if necessary.
 ![image](https://github.com/user-attachments/assets/8b34ad00-d534-4e4e-a146-b42641a3c1ff)
 
+<br>
+<br>
+
+
+<h3> Conclusion</h3>
+
+<p>This project took us through each critical phase of a ticket lifecycle, from the initial report to the final resolution, highlighting how effective classification, timely assignments, and clear communication enhance problem-solving. By applying best practices, we ensure an efficient IT support process.</p>
+
+<p>In conclusion, mastering the ticket lifecycle in Jira Service Management greatly enhances the support team’s capacity to resolve issues efficiently. By utilizing a powerful IT Service Management (ITSM) tool like Jira, we can streamline IT services, minimize disruptions, and improve user satisfaction..</p>

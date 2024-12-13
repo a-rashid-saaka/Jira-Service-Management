@@ -13,7 +13,7 @@
   
 <h4>Implement a Sample Ticket Scenario: </h4>
 
-- Simulate IT service scenarios to show how we handle tickets like software bugs, hardware requests, and password resets in Jira Service Management.
+- Simulate IT service scenarios to show how we handle tickets like hardware requests and password resets in Jira Service Management.
   
 <h4>Highlighting Features in Jira Service Management: </h4>
 
@@ -41,7 +41,7 @@
 <h3>&#9312; Ticket Creation</h3>
 
 
-<p>Ticket creation in Jira is the process of logging and defining an issue that needs to be resolved. This can involve tasks, incidents, service requests, or bugs, depending on the type of project. In Jira Service Management, ticket creation is often initiated by end users, agents, or the system.</p>
+<p>Ticket creation in Jira is the process of logging and defining an issue that needs to be resolved. This can involve tasks, incidents, or service requests, depending on the type of project. In Jira Service Management, ticket creation is often initiated by end users, agents, or the system.</p>
 
 Here’s a step-by-step guide to creating a ticket in Jira:
 
@@ -52,7 +52,7 @@ Here’s a step-by-step guide to creating a ticket in Jira:
 
 <h4>II. Click on "Create"</h4>
 
- Click the Create button on the Jira dashboard (typically at the top right of the page).
+ Click the Create button on the Jira dashboard (typically at the top of the page).
   
 <h4>III. Fill in Ticket Details</h4>
 
@@ -232,7 +232,7 @@ Open the ticket and review details such as summary, description, attachments(if 
 ![image](https://github.com/user-attachments/assets/19c28ffb-2543-443b-9a92-d7d19036c8d6)
 
 
-<strong>VI. Verify and Close:</strong> Wait for the reporter to confirm that the issue has been resolved and close the ticket. Change the status of the ticket to "Closed" after verification from the reporter.
+<strong>VI. Verify and Close:</strong> Wait for the reporter to confirm that the issue has been resolved and close the ticket. Change the ticket status to "Closed" after verification from the reporter.
 
 ![image](https://github.com/user-attachments/assets/326d077f-9e88-4214-809c-cdd71b327a1d)
 
@@ -272,7 +272,8 @@ If possible, test the VPN connection from another device to ensure the fix works
 
 <h4>Close the Ticket</h4>
 After the user confirms the resolution:
-Change the ticket status to "Closed".
-Update the Resolution Field:
-Select a resolution type (e.g., "Fixed").
-Thank the user and provide additional instructions, if necessary.
+
+- Change the ticket status to "Closed".
+- Thank the user and provide additional instructions, if necessary.
+![image](https://github.com/user-attachments/assets/8b34ad00-d534-4e4e-a146-b42641a3c1ff)
+

@@ -98,23 +98,20 @@ Here's a detailed look at the key aspects of ticket classification:</p>
 
 - Priority:
   
-  - Indicates the urgency of the ticket.
-  - Common levels: Critical, High, Medium, Low.
-
+  - Indicates the urgency of the ticket (e.g., Critical, High, Medium, Low).
+  
 - Status:
   
-  - Tracks the lifecycle of a ticket.
-  - Example statuses: Open, In Progress, Completed, Closed.
+  - Tracks the lifecycle of a ticket (e.g., Open, In Progress, Completed, Closed).
 
 - Components:
   
-  - Refers to specific subsystems or areas affected by the ticket.
-  - Example: Backend, Database, UI.
+  - Refers to specific subsystems or areas affected by the ticket (e.g., "Database")
 
 - Labels:
   
-  - Custom tags for additional categorization.
-  - Example: "Critical Issue," "Customer Request."
+  - Custom tags for additional categorization (e.g., "Critical")
+    
     
 <br>
 

@@ -278,7 +278,7 @@ After the user confirms the resolution:
 <br>
 
 
-<h3> Conclusion</h3>
+<h2> Conclusion</h2>
 
 <p>This project took us through each critical phase of a ticket lifecycle, from the initial report to the final resolution, highlighting how effective classification, timely assignments, and clear communication enhance problem-solving. By applying best practices, we ensure an efficient IT support process.</p>
 
